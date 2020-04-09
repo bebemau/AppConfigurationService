@@ -1,0 +1,14 @@
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
