@@ -1,8 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Configuration.AzureAppConfiguration;
 using System;
 using m = System.Configuration;
-using System.Threading.Tasks;
 
 namespace ConsoleFramework
 {
