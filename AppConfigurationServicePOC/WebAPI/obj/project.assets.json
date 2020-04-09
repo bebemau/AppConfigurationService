@@ -13335,9 +13335,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\AppConfigurationService\\AppConfigurationServicePOC\\WebAPI\\WebAPI.csproj",
-      "projectName": "WebAPI",
-      "projectPath": "C:\\Development\\AppConfigurationService\\AppConfigurationServicePOC\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Development\\AppConfigurationService\\AppConfigurationServicePOC\\WebAPI\\WebAPICore.csproj",
+      "projectName": "WebAPICore",
+      "projectPath": "C:\\Development\\AppConfigurationService\\AppConfigurationServicePOC\\WebAPI\\WebAPICore.csproj",
       "packagesPath": "C:\\Users\\kman\\.nuget\\packages\\",
       "outputPath": "C:\\Development\\AppConfigurationService\\AppConfigurationServicePOC\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",

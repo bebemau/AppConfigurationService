@@ -20,7 +20,7 @@ namespace AppConfigurationServicePOC
             builder.AddAzureAppConfiguration(options => options.ConnectWithManagedIdentity(appConfigServiceConnection));
 
             Configuration = builder.Build();
-            Console.WriteLine(Configuration["MyPassword"]);
+            Console.WriteLine(Configuration["MyPassword"] ?? "Not here");
             Console.ReadLine();
         }
     }

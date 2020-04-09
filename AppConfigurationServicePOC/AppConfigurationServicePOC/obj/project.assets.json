@@ -7145,9 +7145,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\AppConfigurationService\\AppConfigurationServicePOC\\AppConfigurationServicePOC\\AppConfigurationServicePOC.csproj",
-      "projectName": "AppConfigurationServicePOC",
-      "projectPath": "C:\\Development\\AppConfigurationService\\AppConfigurationServicePOC\\AppConfigurationServicePOC\\AppConfigurationServicePOC.csproj",
+      "projectUniqueName": "C:\\Development\\AppConfigurationService\\AppConfigurationServicePOC\\AppConfigurationServicePOC\\ConsoleCore.csproj",
+      "projectName": "ConsoleCore",
+      "projectPath": "C:\\Development\\AppConfigurationService\\AppConfigurationServicePOC\\AppConfigurationServicePOC\\ConsoleCore.csproj",
       "packagesPath": "C:\\Users\\kman\\.nuget\\packages\\",
       "outputPath": "C:\\Development\\AppConfigurationService\\AppConfigurationServicePOC\\AppConfigurationServicePOC\\obj\\",
       "projectStyle": "PackageReference",

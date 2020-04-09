@@ -1,0 +1,12 @@
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\AppConfigurationServicePOC\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\AppConfigurationServicePOC\bin\Debug\netcoreapp2.2\ConsoleCore.deps.json
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\AppConfigurationServicePOC\bin\Debug\netcoreapp2.2\ConsoleCore.runtimeconfig.json
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\AppConfigurationServicePOC\bin\Debug\netcoreapp2.2\ConsoleCore.runtimeconfig.dev.json
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\AppConfigurationServicePOC\bin\Debug\netcoreapp2.2\ConsoleCore.dll
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\AppConfigurationServicePOC\bin\Debug\netcoreapp2.2\ConsoleCore.pdb
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\AppConfigurationServicePOC\obj\Debug\netcoreapp2.2\ConsoleCore.csprojAssemblyReference.cache
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\AppConfigurationServicePOC\obj\Debug\netcoreapp2.2\ConsoleCore.csproj.CoreCompileInputs.cache
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\AppConfigurationServicePOC\obj\Debug\netcoreapp2.2\ConsoleCore.AssemblyInfoInputs.cache
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\AppConfigurationServicePOC\obj\Debug\netcoreapp2.2\ConsoleCore.AssemblyInfo.cs
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\AppConfigurationServicePOC\obj\Debug\netcoreapp2.2\ConsoleCore.dll
+C:\Development\AppConfigurationService\AppConfigurationServicePOC\AppConfigurationServicePOC\obj\Debug\netcoreapp2.2\ConsoleCore.pdb
